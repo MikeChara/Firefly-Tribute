@@ -43,3 +43,8 @@ footer {
   font-size: smaller;
   border-top: #dddddd solid 2px;
 }
+
+h3 {
+  margin-top: 48px;
+  margin-bottom: 8px;
+}
