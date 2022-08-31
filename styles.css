@@ -4,9 +4,7 @@
   height: auto;
   display: block;
 }
-#main {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
+
 .further-reading {
   margin-top: 16px;
 }
@@ -26,10 +24,19 @@
 }
 body {
   margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #tribute-info {
   margin-left: 16px;
 }
 #image {
   margin: auto;
+}
+footer {
+  margin-top: 32px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  text-align: center;
+  background-color: #eeeeee;
+  font-size: smaller;
 }
