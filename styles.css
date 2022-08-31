@@ -1,1 +1,19 @@
 /* Copy and paste your CSS from CodePen into here */
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+#main {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.further-reading {
+  margin-top: 16px;
+}
+.page-top {
+  text-align: center;
+}
+#img-caption {
+  text-align: center;
+  font-size: smaller;
+}
