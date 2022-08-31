@@ -25,6 +25,8 @@
 body {
   margin: 0;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #333333;
+  background-color: #fefefe;
 }
 #tribute-info {
   margin-left: 16px;
@@ -39,4 +41,5 @@ footer {
   text-align: center;
   background-color: #eeeeee;
   font-size: smaller;
+  border-top: #dddddd solid 2px;
 }
